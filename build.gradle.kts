@@ -6,7 +6,7 @@ plugins {
 
 project.ext.set("name", "persistentserver")
 
-group = "cc.mewcraft"
+group = "cc.mewcraft.persistentserver"
 version = "1.0.0"
 description = "Makes players log back in to the server they logged out from"
 
